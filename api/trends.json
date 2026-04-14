@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:19:01.517901+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-15T04:57:02.165152+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "微软接手OpenAI挪威数据中心租约",
@@ -26,8 +26,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
+        },
+        {
+          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
+          "url": "https://wallstreetcn.com/livenews/3087960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -37,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -46,11 +68,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -60,8 +83,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -71,8 +94,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -82,8 +105,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 04时57分]"
         },
         {
           "title": "什么是AI幻觉",
@@ -119,13 +153,35 @@
           "time_info": "01时39分"
         },
         {
+          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
+          "url": "https://wallstreetcn.com/livenews/3087952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
+          "url": "https://flash.jin10.com/detail/20260415042309980800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
           "url": "https://wallstreetcn.com/livenews/3087919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -147,7 +203,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
@@ -162,22 +218,24 @@
           "url": "https://wallstreetcn.com/articles/3769935",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时57分]"
         },
         {
           "title": "GPT6 值得期待吗？",
           "url": "https://www.zhihu.com/question/2026939663219181045",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 04时57分]"
         },
         {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
