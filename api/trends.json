@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T02:55:02.258080+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-04-19T03:43:00.296539+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时43分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时43分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时43分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -49,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时43分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 03时43分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -72,14 +72,14 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时43分]"
         }
       ]
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -90,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时43分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -99,11 +99,23 @@
           "source": "抖音",
           "ranks": [
             21,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 03时43分]"
+        },
+        {
+          "title": "DeepSeek百亿融资背后的两张王牌",
+          "url": "https://www.toutiao.com/trending/7630034603113188906/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 03时43分]"
         },
         {
           "title": "自制“长腿豆包”参加机器人半马",
@@ -128,11 +140,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 03时43分]"
         }
       ]
     }
