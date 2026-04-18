@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T04:39:41.374089+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-04-19T05:38:07.307447+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -49,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -58,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -90,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -103,8 +104,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "自制“长腿豆包”参加机器人半马",
@@ -115,8 +116,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -145,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 05时38分]"
         }
       ]
     }
