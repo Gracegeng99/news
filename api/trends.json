@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:40:33.251348+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-04-20T05:38:33.944127+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -37,8 +37,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时54分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时54分 ~ 05时38分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -60,8 +61,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 05时38分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -114,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "豆包变豆脚了",
@@ -128,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -137,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -150,11 +152,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -165,8 +168,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
