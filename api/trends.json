@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:41:33.907718+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-04-19T19:36:54.151367+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 18时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 19时36分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -64,8 +64,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 18时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 19时36分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -78,8 +78,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 18时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -90,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 19时36分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -106,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 18时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 19时36分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -271,11 +271,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时36分]"
         },
         {
           "title": "机器人马拉松 豆包变豆脚了",
