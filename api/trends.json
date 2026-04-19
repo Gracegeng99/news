@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:51:23.482823+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-04-19T18:41:33.907718+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 18时41分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -59,11 +60,12 @@
             11,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 18时41分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,8 +78,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 18时41分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -88,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时41分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -100,11 +102,12 @@
             12,
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 18时41分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -148,11 +151,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 18时41分]"
         },
         {
           "title": "AI让人越来越累",
@@ -261,6 +265,19 @@
           "time_info": "[01时38分 ~ 10时46分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时41分]"
+        },
+        {
           "title": "机器人马拉松 豆包变豆脚了",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%20%E8%B1%86%E5%8C%85%E5%8F%98%E8%B1%86%E8%84%9A%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -271,18 +288,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 16时57分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 17时51分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
