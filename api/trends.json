@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:07:54.301144+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-04-25T22:43:39.973324+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,19 @@
           "time_info": "[01时55分 ~ 15时19分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 22时43分]"
+        },
+        {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
@@ -65,21 +78,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时59分 ~ 10时32分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 21时07分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -97,17 +95,43 @@
           "time_info": "[03时53分 ~ 18时46分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
           "ranks": [
+            1,
+            8,
             9,
-            6,
-            5
+            12,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 21时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 22时43分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 22时43分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时43分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -147,11 +171,12 @@
             20,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 21时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 22时43分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -167,29 +192,6 @@
           "time_info": "[00时59分 ~ 07时41分]"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 21时07分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时07分]"
-        },
-        {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
           "url": "https://www.cls.cn/detail/2355592",
           "source": "财联社热门",
@@ -198,8 +200,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时07分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时43分]"
+        },
+        {
+          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
+          "url": "https://www.zhihu.com/question/2031087393374041169",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 22时43分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -230,20 +246,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时56分 ~ 19时40分]"
-        },
-        {
-          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
-          "url": "https://www.zhihu.com/question/2031087393374041169",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 21时07分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -568,11 +570,12 @@
             11,
             13,
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时32分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[10时32分 ~ 22时43分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -605,6 +608,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时59分 ~ 07时41分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 22时43分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -665,28 +683,13 @@
           "time_info": "[00时59分 ~ 06时41分]"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 21时07分]"
-        },
-        {
           "title": "DeepSeek V4 Pro全面测评",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -793,6 +796,18 @@
           "time_info": "[17时55分 ~ 18时46分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -814,17 +829,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 10时32分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "DeepSeek-V4“解锁”国产芯片",
