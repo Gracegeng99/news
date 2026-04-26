@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:41:20.356109+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-04-27T07:41:26.597693+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -63,11 +63,25 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时41分]"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -97,18 +111,6 @@
           "time_info": "[00时44分 ~ 06时41分]"
         },
         {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
-        },
-        {
           "title": "Claude降智了吗",
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -118,11 +120,12 @@
             17,
             20,
             18,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
@@ -154,11 +157,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[05时39分 ~ 07时41分]"
         }
       ]
     },
@@ -174,8 +178,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -186,11 +203,12 @@
             7,
             10,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -202,23 +220,12 @@
             20,
             10,
             8,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
-        },
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -241,8 +248,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
