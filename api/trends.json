@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:17:55.895477+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-05-08T21:51:48.388124+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -77,11 +77,23 @@
           "ranks": [
             18,
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 21时51分]"
+        },
+        {
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -118,6 +130,18 @@
           "time_info": "[13时33分 ~ 15时45分]"
         },
         {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 21时51分]"
+        },
+        {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
@@ -128,6 +152,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时33分 ~ 15时45分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 21时51分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -154,29 +190,6 @@
           "time_info": "[10时57分 ~ 13时34分]"
         },
         {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 19时17分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 19时17分]"
-        },
-        {
           "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
           "url": "https://www.cls.cn/detail/2365785",
           "source": "财联社热门",
@@ -189,6 +202,18 @@
           "time_info": "[17时26分 ~ 19时17分]"
         },
         {
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 21时51分]"
+        },
+        {
           "title": "索尼：还将与台积电(TSM.N)合作，探索在汽车和机器人领域的物理人工智能应用。",
           "url": "https://flash.jin10.com/detail/20260508152346022800",
           "source": "金十数据",
@@ -198,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "据悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。有关上述信息，记者向Plaud及腾讯方面求证，双方均表示消息不实。（36氪）",
+          "url": "https://wallstreetcn.com/livenews/3100764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
@@ -250,7 +286,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -316,9 +352,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "报道：DeepSeek首轮融资目标500亿元，有望创下中国AI史上最大单笔融资纪录",
+          "url": "https://wallstreetcn.com/livenews/3100687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
@@ -354,13 +401,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：过去两个月的就业数据非常亮眼。 就业市场“异常火爆”。 现在我们看到人工智能正在创造就业。 尽管石油价格和就业形势，但核心通胀率依然保持稳定。 没有迹象表明通胀失控，美联储无需加息。 我认为我们今年会看到降息，因为美联储主席提名人沃什。",
+          "url": "https://wallstreetcn.com/livenews/3100750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "南威软件：公司智算运营相关的AI工具仍处于测试阶段，尚未正式发版",
           "url": "https://flash.jin10.com/detail/20260508182018476800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -382,20 +440,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "19时17分"
         },
         {
           "title": "美联储卡什卡利：对人工智能持乐观态度。",
@@ -426,7 +473,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -451,6 +498,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent AI智能体 智能体 AI助手",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三部门联合印发《智能体规范应用与创新发展实施意见》",
+          "url": "https://www.cls.cn/detail/2366263",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "三部门：加强供应链安全，探索建立智能体供应链安全信息共享和预警机制",
+          "url": "https://wallstreetcn.com/livenews/3100622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "三部门：研发金融风控智能体，提升信贷审批、交易监控、账户安全等环节风险识别能力",
+          "url": "https://flash.jin10.com/detail/20260508181648029800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "三部门印发《智能体规范应用与创新发展实施意见》",
+          "url": "https://wallstreetcn.com/livenews/3100613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -480,7 +577,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -502,46 +599,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Agent AI智能体 智能体 AI助手",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三部门：加强供应链安全，探索建立智能体供应链安全信息共享和预警机制",
-          "url": "https://wallstreetcn.com/livenews/3100622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "三部门：研发金融风控智能体，提升信贷审批、交易监控、账户安全等环节风险识别能力",
-          "url": "https://flash.jin10.com/detail/20260508181648029800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "三部门印发《智能体规范应用与创新发展实施意见》",
-          "url": "https://wallstreetcn.com/livenews/3100613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
