@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T03:57:04.443472+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-13T05:22:39.964811+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -58,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -73,8 +74,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时22分]"
         },
         {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
@@ -84,8 +85,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 05时22分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -116,7 +117,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -127,7 +128,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -138,7 +139,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         }
