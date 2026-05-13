@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:49:58.733288+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-05-13T17:47:05.519124+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -58,6 +58,17 @@
           "time_info": "[01时12分 ~ 07时04分]"
         },
         {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时47分]"
+        },
+        {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
           "url": "https://www.cls.cn/detail/2369195",
           "source": "财联社热门",
@@ -82,15 +93,48 @@
           "time_info": "[01时12分 ~ 07时04分]"
         },
         {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "封神2特效 不如AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E2%E7%89%B9%E6%95%88%20%E4%B8%8D%E5%A6%82AI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
           "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "【阿里巴巴：AI相关产品收入连续十一个季度实现三位数增长】阿里巴巴表示，截至2026年3月31日止季度，云智能集团收入为人民币 416.26 亿元（60.35 亿美元），同比增长 38%，特别是外部商业化收入同比增长加速至 40%。这一增长势头主要由公共云业务收入增长所驱动，其中包括 AI 相关产品采用量的提升。本季度 AI 相关产品收入保持强劲势头，达 89.71 亿元人 民币，实现连续第十一个季度的三位数同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3102910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "17时47分"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -150,6 +194,17 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
           "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
           "url": "https://www.cls.cn/detail/2369513",
           "source": "财联社热门",
@@ -159,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "马化腾回应腾讯AI是否落后",
+          "url": "https://www.toutiao.com/trending/7639279967072518180/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "全国首例AI代写“种草笔记”案宣判",
@@ -307,7 +373,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
@@ -327,22 +393,35 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 17时47分]"
         },
         {
           "title": "豆包收费 大模型将告别免费时代",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时47分]"
+        },
+        {
+          "title": "腾讯云：部分DeepSeek模型升级及切换安排公告",
+          "url": "https://flash.jin10.com/detail/20260513165430378800",
+          "source": "金十数据",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "17时47分"
         }
       ]
     }
