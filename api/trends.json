@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T15:53:11.523538+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-05-15T18:25:47.343957+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -75,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 18时25分]"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -102,9 +103,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 18时25分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -119,15 +142,26 @@
           "time_info": "[01时52分 ~ 05时12分]"
         },
         {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 18时25分]"
+        },
+        {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 18时25分]"
         },
         {
           "title": "AI还原烂梗有多毒",
@@ -153,28 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 05时12分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -269,6 +281,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "xAI发布Grok Build的一个早期测试版。",
           "url": "https://wallstreetcn.com/livenews/3103859",
           "source": "华尔街见闻-快讯",
@@ -330,7 +353,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -344,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
+          "url": "https://wallstreetcn.com/livenews/3104308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
@@ -374,7 +408,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -418,7 +452,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
