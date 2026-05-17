@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:46:06.367520+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-05-17T17:07:30.134440+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时07分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时07分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -77,11 +77,25 @@
           "ranks": [
             20,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时07分]"
+        },
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 17时07分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -110,18 +124,6 @@
           "time_info": "[00时02分 ~ 07时55分]"
         },
         {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时46分]"
-        },
-        {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
           "url": "https://flash.jin10.com/detail/20260516225206555800",
           "source": "金十数据",
@@ -131,6 +133,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 17时07分]"
         },
         {
           "title": "境外间谍对我稀土AI等领域实施窃密",
@@ -145,17 +159,6 @@
           "time_info": "[11时31分 ~ 14时46分]"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
           "title": "美军AIM-260空空导弹首次亮相",
           "url": "https://www.toutiao.com/trending/7640465871453818418/",
           "source": "今日头条",
@@ -165,6 +168,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
+          "url": "https://flash.jin10.com/detail/20260517152451542800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
