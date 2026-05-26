@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-26T07:04:33.199501+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-26T11:38:01.238200+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 11时38分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时04分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 11时38分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -57,15 +69,15 @@
           "time_info": "[01时45分 ~ 07时04分]"
         },
         {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时04分]"
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
@@ -111,6 +123,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人民日报评豆包收费",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "人民日报评豆包付费：从“免费午餐”走向“价值账单”",
+          "url": "https://www.cls.cn/detail/2381195",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "人民日报评豆包付费",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%B1%86%E5%8C%85%E4%BB%98%E8%B4%B9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         }
       ]
     }
