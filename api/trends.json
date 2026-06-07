@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T20:22:34.349438+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-06-07T22:54:36.896615+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -33,6 +33,33 @@
           "time_info": "[01时16分 ~ 07时05分]"
         },
         {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 22时54分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            16,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 22时54分]"
+        },
+        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -44,6 +71,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 12时02分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 22时54分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -58,16 +97,17 @@
           "time_info": "[01时16分 ~ 12时02分]"
         },
         {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7
+            4,
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 22时54分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -98,32 +138,6 @@
           "time_info": "[12时01分 ~ 20时22分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 20时22分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 20时22分]"
-        },
-        {
           "title": "北京高考作文考教老人用AI",
           "url": "https://flash.jin10.com/detail/20260607113905644800",
           "source": "金十数据",
@@ -146,17 +160,16 @@
           "time_info": "01时16分"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            25,
-            21
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 22时54分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -221,18 +234,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时05分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 20时22分]"
         },
         {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
@@ -321,6 +322,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "AI炒完芯片后，下一轮被抢的会是谁？",
+          "url": "https://flash.jin10.com/detail/20260607214620913800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "北大UP主手搓AI猫娘",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
           "source": "bilibili 热搜",
@@ -330,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850545&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Lk5lb_SlH5TkzfY-AB4dV.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260607214619409800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "黄仁勋会见韩国两大游戏商代表 共商游戏AI合作方案",
@@ -382,7 +405,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         }
@@ -390,7 +413,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "豆包认错蘑菇,高管:仅供参考",
@@ -401,11 +424,12 @@
             7,
             10,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 20时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 22时54分]"
         },
         {
           "title": "高考 豆包",
@@ -418,6 +442,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 16时02分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
