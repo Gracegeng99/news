@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:39:18.902242+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-06-09T23:56:53.052913+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 23时56分]"
         },
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 23时56分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -140,7 +141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -156,6 +157,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 08时08分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 23时56分]"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI集成至相机应用，并推出全新的Siri模式。",
@@ -245,18 +259,6 @@
           "time_info": "[01时55分 ~ 08时08分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 20时39分]"
-        },
-        {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
@@ -280,6 +282,19 @@
           "time_info": "[06时28分 ~ 08时08分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 23时56分]"
+        },
+        {
           "title": "Siri AI",
           "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -290,18 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时28分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时39分]"
         },
         {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
@@ -403,6 +406,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
@@ -412,6 +426,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
+          "url": "https://wallstreetcn.com/livenews/3116930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -464,7 +500,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -491,6 +527,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "都在盯地缘和AI，真正没准备的可能是加息风险！",
+          "url": "https://flash.jin10.com/detail/20260609233117276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "微信AI生态开启内测",
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -511,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850547&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/DHZMW3QcAvif7iwXSllRk.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260609233114936800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -568,6 +626,28 @@
           "time_info": "08时08分"
         },
         {
+          "title": "摩根大通计划今年部署更强大的人工智能代理",
+          "url": "https://flash.jin10.com/detail/20260609232435076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
           "url": "https://flash.jin10.com/detail/20260609051127110800",
           "source": "金十数据",
@@ -588,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "布局“AI+能源” 南通三年行动方案出炉",
+          "url": "https://wallstreetcn.com/livenews/3116916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "苹果(AAPL.O)：新的AI架构支持应用操作和屏幕感知功能。",
@@ -640,7 +731,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -684,7 +775,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -695,7 +786,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
