@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-18T17:17:37.102159+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-06-18T20:54:02.015314+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
-          "url": "https://wallstreetcn.com/livenews/3121577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
@@ -26,11 +15,56 @@
             13,
             11,
             6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时20分 ~ 20时54分]"
+        },
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 17时17分]"
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
+          "url": "https://wallstreetcn.com/livenews/3121577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：我们认为，人工智能已在投资数据中显现出来。",
+          "url": "https://flash.jin10.com/detail/20260618204158416800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -57,6 +91,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 07时26分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 20时54分]"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 20时54分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -105,6 +163,17 @@
           "time_info": "[02时18分 ~ 05时20分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
           "url": "https://www.zhihu.com/question/2046913494243435264",
           "source": "知乎",
@@ -123,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -161,6 +230,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "商务部等8部门：加快推出新一代人工智能手机、智能电脑等智能家居产品",
+          "url": "https://wallstreetcn.com/livenews/3121699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "AirPods五大升级",
           "url": "https://s.weibo.com/weibo?q=%23AirPods%E4%BA%94%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -172,24 +252,13 @@
           "time_info": "12时03分"
         },
         {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "阿里巴巴集团：阿里云计划在2026年下半年在马来西亚和欧洲市场推出一系列智能AI服务。",
           "url": "https://flash.jin10.com/detail/20260618170737641800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -203,17 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
-          "url": "https://www.cls.cn/detail/2403255",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "苹果(AAPL.O)正在为2027年春季发布第二代iPhone Air做准备。iPhone Air原型机将配备第二后置摄像头并升级电池。",
@@ -233,7 +291,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -310,7 +368,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -318,7 +376,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亏麻,豆包日收入不足百万",
@@ -326,11 +384,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 20时54分]"
         },
         {
           "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
@@ -338,11 +397,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 20时54分]"
         },
         {
           "title": "豆包每天消耗数千万 收入不足百万",
@@ -379,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
+          "url": "https://wallstreetcn.com/livenews/3121694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "「邪恶豆包」是什么梗？你有被「邪恶豆包」戏耍的经历吗？",
