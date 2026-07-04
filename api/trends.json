@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T02:02:40.809571+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-05T04:10:04.957489+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 04时10分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -79,19 +79,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
           "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         }
       ]
     },
@@ -108,8 +109,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时10分]"
         }
       ]
     }
