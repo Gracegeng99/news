@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:59:35.787885+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-07-19T21:44:08.042454+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -94,11 +94,12 @@
             12,
             11,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时49分 ~ 19时59分]"
+          "appearance_count": 13,
+          "time_info": "[04时49分 ~ 21时44分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -195,6 +196,19 @@
           "time_info": "[01时03分 ~ 06时51分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 21时44分]"
+        },
+        {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
           "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
           "source": "凤凰网",
@@ -217,6 +231,20 @@
           "time_info": "[03时04分 ~ 03时05分]"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时44分]"
+        },
+        {
           "title": "这一秒过火 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -226,19 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 19时59分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -310,15 +325,16 @@
           "time_info": "13时54分"
         },
         {
-          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
-          "url": "https://wallstreetcn.com/livenews/3136258",
-          "source": "华尔街见闻-快讯",
+          "title": "蔡磊获2026年度AI特别贡献人物",
+          "url": "https://www.douyin.com/hot/2577008",
+          "source": "抖音",
           "ranks": [
-            4
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时44分]"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -339,18 +355,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "蔡磊获2026年度AI特别贡献人物",
-          "url": "https://www.douyin.com/hot/2577008",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -380,6 +385,31 @@
           "time_info": "[01时03分 ~ 06时51分]"
         },
         {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时44分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时44分]"
+        },
+        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -404,17 +434,16 @@
           "time_info": "[10时45分 ~ 13时54分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9,
-            8
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时59分]"
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时44分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -464,6 +493,17 @@
           "time_info": "[07时56分 ~ 10时45分]"
         },
         {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时44分]"
+        },
+        {
           "title": "世界两大AI组织都是狠角色",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -500,28 +540,15 @@
           "time_info": "[01时03分 ~ 16时20分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时59分]"
-        },
-        {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时59分]"
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "WAIC 2026智启具身论坛今日举行，姚卯青：物理AI 要实现规模化，必须突破三道“墙”",
@@ -558,6 +585,17 @@
           "time_info": "[16时19分 ~ 16时20分]"
         },
         {
+          "title": "Kimi K3让美国AI巨头慌了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "机器人在WAIC一脚踹出真本事",
           "url": "https://www.douyin.com/hot/2574930",
           "source": "抖音",
@@ -570,13 +608,24 @@
           "time_info": "[01时03分 ~ 06时51分]"
         },
         {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
           "url": "https://wallstreetcn.com/livenews/3136256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -631,7 +680,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -675,18 +724,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -730,7 +768,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -779,6 +817,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
           "url": "https://wallstreetcn.com/livenews/3136130",
           "source": "华尔街见闻-快讯",
@@ -818,7 +867,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -862,9 +911,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "毕马威中国主席：人工智能正加速转变为经济增长的核心引擎",
+          "url": "https://flash.jin10.com/detail/20260719203737137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
@@ -873,7 +933,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -917,7 +977,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -928,7 +988,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -961,7 +1021,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
@@ -969,7 +1029,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
@@ -1009,6 +1069,19 @@
           "time_info": "[01时03分 ~ 06时51分]"
         },
         {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 21时44分]"
+        },
+        {
           "title": "性能强悍,Kimi新模型引爆外网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356296&amp;topic_name=%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%2CKimi%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E7%88%86%E5%A4%96%E7%BD%91",
           "source": "贴吧",
@@ -1019,11 +1092,12 @@
             22,
             24,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 19时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 21时44分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -1043,17 +1117,17 @@
           "time_info": "[01时03分 ~ 10时45分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
+          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+          "url": "https://wallstreetcn.com/articles/3777348",
           "source": "华尔街见闻",
           "ranks": [
-            6,
+            8,
             5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时44分]"
         },
         {
           "title": "Kimi K3测评报告",
@@ -1070,17 +1144,15 @@
           "time_info": "[01时03分 ~ 07时57分]"
         },
         {
-          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
-          "url": "https://wallstreetcn.com/articles/3777348",
-          "source": "华尔街见闻",
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
           "ranks": [
-            8,
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时59分]"
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -1095,6 +1167,19 @@
           "time_info": "[13时54分 ~ 18时29分]"
         },
         {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时44分]"
+        },
+        {
           "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
           "url": "https://www.zhihu.com/question/2061509036919316967",
           "source": "知乎",
@@ -1104,18 +1189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 18时29分]"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时59分]"
         },
         {
           "title": "电子斗蛐蛐 实测kimi k3",
@@ -1146,7 +1219,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1157,7 +1230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
