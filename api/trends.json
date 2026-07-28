@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T06:08:54.007148+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-28T08:05:11.602464+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 08时05分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -28,6 +28,56 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 06时08分]"
+        },
+        {
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 08时05分]"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 08时05分]"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 08时05分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -50,9 +100,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "安徽卫视播AI剧 明确标注AI制作",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 08时05分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -66,43 +129,17 @@
           "time_info": "02时27分"
         },
         {
-          "title": "各个行业被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9,
-            7,
-            10
+            26,
+            25,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时08分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时08分]"
-        },
-        {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时08分]"
+          "time_info": "[00时58分 ~ 08时05分]"
         },
         {
           "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
@@ -166,16 +203,15 @@
           "time_info": "[00时58分 ~ 02时27分]"
         },
         {
-          "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
-          "source": "百度热搜",
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            25
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时27分]"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -212,16 +248,15 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "安徽卫视播AI剧 明确标注AI制作",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
-          "source": "百度热搜",
+          "title": "全球AI竞争将如何发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            30,
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 04时23分]"
+          "time_info": "[08时04分 ~ 08时05分]"
         },
         {
           "title": "虞书欣 AI漫剧",
@@ -252,7 +287,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -274,7 +309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -290,13 +325,24 @@
           "time_info": "04时23分"
         },
         {
+          "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
+          "url": "https://wallstreetcn.com/livenews/3140555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
           "url": "https://www.cls.cn/detail/2437876",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -307,7 +353,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -318,7 +364,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -340,7 +386,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -354,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260728061037912800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -391,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 08时05分]"
         },
         {
           "title": "外媒丑化Kimi创始人惹众怒",
@@ -403,8 +460,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 08时05分]"
         },
         {
           "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
