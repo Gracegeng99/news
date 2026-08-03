@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T08:06:40.063693+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-08-03T12:31:58.752602+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -26,19 +26,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 12时31分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
           "url": "https://wallstreetcn.com/articles/3778516",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 12时31分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 12时31分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -59,17 +72,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 08时06分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -117,15 +119,59 @@
           "time_info": "[04时11分 ~ 08时06分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803120029547800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
@@ -134,7 +180,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -145,9 +191,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AI才是打工人的理想工作状态",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%89%8D%E6%98%AF%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E7%90%86%E6%83%B3%E5%B7%A5%E4%BD%9C%E7%8A%B6%E6%80%81&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -164,7 +232,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -197,11 +265,45 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 12时31分]"
+        },
+        {
+          "title": "豆包简直是压力全吃之人",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
+          "url": "https://flash.jin10.com/detail/20260803113453343800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "阿里Qwen3.8正式发布，总参数量2.4万亿，整体性能处于全球大模型第一梯队",
+          "url": "https://wallstreetcn.com/livenews/3143859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
