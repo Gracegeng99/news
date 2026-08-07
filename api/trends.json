@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T04:42:01.357520+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-08T05:40:02.759433+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -77,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -90,8 +90,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -112,8 +112,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[03时54分 ~ 05时40分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -209,8 +209,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -220,8 +220,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 05时40分]"
         },
         {
           "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
@@ -243,8 +243,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[03时54分 ~ 05时40分]"
         },
         {
           "title": "Claude：自8月14日起，Claude Code面向Pro、Max和Team用户的默认权限模式将改为自动模式。自动模式会通过一个独立分类器审查Shell命令和操作。在测试中，该模式识别出了89%的危险命令，而人工审批模式仅识别出14%。",
