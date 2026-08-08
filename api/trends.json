@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:47:02.624355+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-08-08T22:33:16.361926+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时53分 ~ 21时47分]"
+          "appearance_count": 14,
+          "time_info": "[14时53分 ~ 22时33分]"
         },
         {
           "title": "如何看待张一鸣与梁文峰被评「正以完全不同的方向迈向 AGI」？",
@@ -34,6 +34,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时55分 ~ 09时41分]"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时38分 ~ 22时33分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -68,6 +82,18 @@
           "time_info": "[00时55分 ~ 07时34分]"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时34分 ~ 22时33分]"
+        },
+        {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
           "url": "https://www.cls.cn/detail/2448537",
           "source": "财联社热门",
@@ -93,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时57分 ~ 21时47分]"
+          "appearance_count": 17,
+          "time_info": "[12时57分 ~ 22时33分]"
         },
         {
           "title": "AGI之后，硅谷又为资本开支找了一个新理由",
@@ -107,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时57分 ~ 21时47分]"
+          "appearance_count": 17,
+          "time_info": "[12时57分 ~ 22时33分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -180,19 +206,6 @@
           "time_info": "[00时55分 ~ 06时36分]"
         },
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时38分 ~ 21时47分]"
-        },
-        {
           "title": "自媒体红利期只剩AI了",
           "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -204,18 +217,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时57分 ~ 17时39分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 21时47分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -258,6 +259,20 @@
           "time_info": "00时56分"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时33分]"
+        },
+        {
           "title": "戚薇谈把脸交给AI",
           "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
           "source": "百度热搜",
@@ -268,6 +283,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时42分 ~ 18时34分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时46分 ~ 22时33分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -281,19 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 13时45分]"
-        },
-        {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时47分]"
         },
         {
           "title": "苹果AI",
@@ -342,15 +356,27 @@
           "time_info": "[01时53分 ~ 03时01分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
+          "time_info": "[21时47分 ~ 22时33分]"
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "为什么现在的 ai 都在卷编程？",
@@ -376,6 +402,17 @@
           "time_info": "[01时53分 ~ 03时01分]"
         },
         {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
+        },
+        {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
           "url": "https://flash.jin10.com/detail/20260808032042397800",
           "source": "金十数据",
@@ -385,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -448,7 +474,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         }
