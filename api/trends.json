@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T03:07:50.360333+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-14T04:43:47.888131+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -38,21 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时07分]"
-        },
-        {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "time_info": "[01时57分 ~ 04时43分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -63,8 +50,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -78,17 +92,18 @@
           "time_info": "00时03分"
         },
         {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "如何看待 Deepseek Harness 发布？",
+          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            4
+            20,
+            15,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
@@ -103,19 +118,6 @@
           "time_info": "[01时58分 ~ 03时07分]"
         },
         {
-          "title": "如何看待 Deepseek Harness 发布？",
-          "url": "https://www.zhihu.com/question/2071331484284220938",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
-        },
-        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -124,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -187,6 +189,17 @@
           "time_info": "[01时58分 ~ 03时07分]"
         },
         {
+          "title": "用豆包给各地特产拍大片",
+          "url": "https://www.douyin.com/hot/2608658",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时43分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini 3.7 Flash将在今年年底前以限时优惠价格提供，输入价格为每100万个词元0.75美元，输出价格为每100万个词元3.75美元。",
           "url": "https://flash.jin10.com/detail/20260814010117935800",
           "source": "金十数据",
@@ -220,17 +233,6 @@
           "time_info": "01时58分"
         },
         {
-          "title": "用豆包给各地特产拍大片",
-          "url": "https://www.douyin.com/hot/2608658",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "DeepSeek官宣涨价",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
@@ -256,7 +258,7 @@
     },
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -266,8 +268,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -276,7 +278,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -289,8 +291,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -302,8 +304,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -311,11 +313,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -324,11 +327,12 @@
           "ranks": [
             25,
             18,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -339,8 +343,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -350,8 +354,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 04时43分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -384,7 +388,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -398,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美光创投推出2.5亿美元基金，投资下一代人工智能。",
+          "url": "https://flash.jin10.com/detail/20260814040156968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
@@ -444,6 +459,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
           "url": "https://wallstreetcn.com/livenews/3149243",
           "source": "华尔街见闻-快讯",
@@ -469,8 +495,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时43分]"
         }
       ]
     }
