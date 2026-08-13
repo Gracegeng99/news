@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-13T19:47:51.895281+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-08-13T21:11:33.559817+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时58分 ~ 21时11分]"
+        },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
           "url": "https://wallstreetcn.com/articles/3779161",
@@ -17,21 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 05时46分]"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时58分 ~ 19时47分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -53,11 +54,12 @@
             6,
             9,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时58分 ~ 19时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时58分 ~ 21时11分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -107,8 +109,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时11分]"
+        },
+        {
+          "title": "美国里士满联储主席巴尔金：美国的投资热潮并不仅限于数据中心。 当前通胀很大程度上源于应当会消退的冲击。 包括人工智能在内的一些通胀驱动因素可能具有持续性。 认为加息存在正反两方面的理由。 美国经济在消费者驱动下仍保持韧性。 AI投资似乎对利率水平具有免疫力。",
+          "url": "https://wallstreetcn.com/livenews/3149174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时11分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -132,18 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时06分]"
-        },
-        {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时47分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -208,6 +221,40 @@
           "time_info": "[04时45分 ~ 06时42分]"
         },
         {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时11分]"
+        },
+        {
+          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
+          "url": "https://www.cls.cn/detail/2453081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时11分]"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时11分]"
+        },
+        {
           "title": "荣耀Magic9系列手机外观首曝",
           "url": "https://www.toutiao.com/trending/7672306494965055494/",
           "source": "今日头条",
@@ -229,40 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
-          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
-          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时47分]"
-        },
-        {
-          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
-          "url": "https://www.cls.cn/detail/2453081",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时47分]"
-        },
-        {
-          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
-          "url": "https://www.cls.cn/detail/2453126",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时47分]"
         },
         {
           "title": "张朝阳谈AI如何帮助物理研究",
@@ -299,6 +312,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "美联储巴尔金：人工智能使企业能够尝试减少员工人数，但由于盈利强劲，裁员压力不大。",
+          "url": "https://flash.jin10.com/detail/20260813204132248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "腾讯启动顶尖AI产品人才招聘专项",
           "url": "https://wallstreetcn.com/livenews/3149091",
           "source": "华尔街见闻-快讯",
@@ -319,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "Anthropic据悉正在洽谈以60亿美元收购AI新创公司Decart。（彭博）",
@@ -387,6 +422,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
           "url": "https://flash.jin10.com/detail/20260813063348828800",
           "source": "金十数据",
@@ -396,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "甲骨文与AWS扩大长期战略合作协议，加速客户迁移，Oracle AI Database@AWS现已在22个AWS区域提供并新增扩展功能。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "2026绿色算力（人工智能）大会将于8月22日举行",
@@ -409,13 +466,35 @@
           "time_info": "14时17分"
         },
         {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "IBM与OpenAI就企业AI部署达成合作",
           "url": "https://wallstreetcn.com/livenews/3149109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -429,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国科技巨头疯狂融资引发资本争夺战 非AI企业的信用风险指标也被推高",
+          "url": "https://wallstreetcn.com/livenews/3149143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "澳洲联储助理主席肯特：金融环境具有一些限制性。 税收政策变化似乎是导致房地产市场低迷的原因之一。 房价下跌或将降低对货币政策的需求。 人工智能活动意味着短期内利率需要更高。",
@@ -445,7 +535,7 @@
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -469,6 +559,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时58分 ~ 10时00分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 21时11分]"
         },
         {
           "title": "英伟达最新开源大模型上线",
@@ -499,20 +604,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时58分 ~ 07时42分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 19时47分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -551,24 +642,13 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
-          "title": "DeepSeek官宣涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版突遭撤回",
           "url": "https://wallstreetcn.com/livenews/3149137",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -585,15 +665,16 @@
           "time_info": "[04时44分 ~ 06时42分]"
         },
         {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            5
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时11分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -607,6 +688,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时46分 ~ 07时42分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时11分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -668,6 +761,17 @@
           "time_info": "[01时58分 ~ 03时06分]"
         },
         {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
           "source": "金十数据",
@@ -690,13 +794,24 @@
           "time_info": "18时07分"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "DeepSeek调价方案公布，8月17日生效",
           "url": "https://flash.jin10.com/detail/20260813192316309800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -712,13 +827,24 @@
           "time_info": "10时00分"
         },
         {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "万邦医药：除API接入外，公司未与DeepSeek公司开展任何业务合作",
           "url": "https://flash.jin10.com/detail/20260813191329389800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -729,7 +855,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -743,6 +869,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://wallstreetcn.com/livenews/3149148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://wallstreetcn.com/livenews/3149142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "让DeepSeek给小说取架空国名",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
