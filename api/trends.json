@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T00:27:47.815930+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T07:21:17.857973+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI AGI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "大厂员工吐槽现在开会就是互丢 AI 文档，你有同感吗？很多公司都强调内化 AI 能力，但真的有提升产出质量吗？",
@@ -30,48 +30,64 @@
           "time_info": "00时27分"
         },
         {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
           "url": "https://wallstreetcn.com/articles/3779512",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
           "url": "https://wallstreetcn.com/articles/3779499",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
           "url": "https://wallstreetcn.com/articles/3779503",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "60岁AI动画赛道新人",
@@ -81,19 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -103,47 +108,127 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
+          "url": "https://wallstreetcn.com/articles/3779514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
+          "url": "https://wallstreetcn.com/articles/3779510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "机构：AI“芯片通胀”正冲击英国经济",
+          "url": "https://flash.jin10.com/detail/20260816045317873800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "机构：债券交易员正为AI企业的“影子信贷”担保而忧心忡忡",
+          "url": "https://flash.jin10.com/detail/20260816034637477800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
     {
       "keyword_group": "大模型 LLM GPT ChatGPT Claude Gemini DeepSeek 通义千问 文心一言 豆包 Kimi",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
           "url": "https://www.zhihu.com/question/2071619812795609447",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "豆包进化到能学我唱歌了",
           "url": "https://www.douyin.com/hot/2610641",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "07时21分"
         }
       ]
     }
